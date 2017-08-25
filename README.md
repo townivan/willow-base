@@ -23,3 +23,23 @@ Then connect it to your own:
 
     git init
 
+Now you can run the UX command (say YES to all the prompts) to build up your site.
+
+## Changing themes
+If you want to use a different theme, it's as easy as:
+
+1. Running either
+
+    npm install --save-dev @unumux/theme-unum-default
+
+or
+
+    npm install --save-dev @unumux/theme-coloniallife-default
+
+2. Updating your styles/styles.scss file (at the top of the file) with:
+
+    @import "node_modules/@unumux/theme-unum-default/styles";
+
+or
+
+    @import "node_modules/@unumux/theme-coloniallife-default/styles";
