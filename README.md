@@ -12,11 +12,14 @@ starting html for a willow-based website
 
 ## Using this 
 Make a folder, go into it and clone this into it:
+
     git clone https://github.com/townivan/willow-base.git .
 
 Then disconnect your project from this repo:
+
     rm -rf .git
 
 Then connect it to your own:
+
     git init
 
