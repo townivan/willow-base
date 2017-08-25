@@ -27,6 +27,7 @@ Then connect it to your own repo:
 
     git init
 
+[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 ## Changing themes
 If you want to use a different theme, it's as easy as:
