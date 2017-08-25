@@ -19,11 +19,14 @@ Then disconnect your project from this repo: (delete hidden .git folder - exampl
 
     rm -rf .git
 
-Then connect it to your own:
+Now you can run the UX command (say YES to all the prompts) to build up your site.
+
+    UX
+
+Then connect it to your own repo:
 
     git init
 
-Now you can run the UX command (say YES to all the prompts) to build up your site.
 
 ## Changing themes
 If you want to use a different theme, it's as easy as:
