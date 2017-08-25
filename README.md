@@ -21,7 +21,7 @@ Then disconnect your project from this repo: (delete hidden .git folder - exampl
 
 Now you can run the UX command (say YES to all the prompts) to build up your site.
 
-    UX
+    ux
 
 Then connect it to your own repo:
 
