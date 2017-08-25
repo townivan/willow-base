@@ -15,7 +15,7 @@ Make a folder, go into it and clone this into it:
 
     git clone https://github.com/townivan/willow-base.git .
 
-Then disconnect your project from this repo:
+Then disconnect your project from this repo: (delete hidden .git folder - example on a mac)
 
     rm -rf .git
 
