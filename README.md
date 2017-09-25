@@ -23,7 +23,7 @@ Now you can run the UX command (say YES to all the prompts) to build up your sit
 
     ux
 
-Then connect it to your own repo:
+Then connect it to your own repo: (To avoid errors, do not initialize the new repository with README, license, or gitignore files.)
 
     git init
 
