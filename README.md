@@ -23,11 +23,16 @@ Now you can run the UX command (say YES to all the prompts) to build up your sit
 
     ux
 
-Then connect it to your own repo: (To avoid errors, do not initialize the new repository with README, license, or gitignore files.)
+Then connect it to your own repo: 
+
+Please read this link first!!
+[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
+(To avoid errors, do not initialize the new repository with README, license, or gitignore files.)
 
     git init
 
-[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
 
 ## Changing themes
 If you want to use a different theme, it's as easy as:
