@@ -25,10 +25,7 @@ Now you can run the UX command (say YES to all the prompts) to build up your sit
 
 Then connect it to your own repo: 
 
-Please read this link first!!
-[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
-
-(To avoid errors, do not initialize the new repository with README, license, or gitignore files.)
+[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](To avoid errors, do not initialize the new repository with README, license, or gitignore files) !!
 
     git init
 
